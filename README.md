@@ -1,0 +1,3 @@
+Computer Science Major at the University of Maryland, College Park
+Attempting to learn GitHub, C, Python, R, and MATLAB.
+All of my friends are smarter than me...
